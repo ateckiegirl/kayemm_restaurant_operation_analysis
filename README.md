@@ -1,8 +1,6 @@
 
 # Restaurant Operations Analysis
 
-![Restaurant Operations Dashboard](images/restaurant-operations-dashboard.png)
-
 An ongoing data analytics project exploring restaurant sales,
 purchasing activities, and operational performance using Excel,
 Power Query, and Power BI.
