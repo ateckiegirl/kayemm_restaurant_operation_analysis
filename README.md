@@ -1,4 +1,11 @@
-# KAYEMM RESTAURANT OPERATION ANALYSIS
+
+# Restaurant Operations Analysis
+
+![Restaurant Operations Dashboard](images/restaurant-operations-dashboard.png)
+
+An ongoing data analytics project exploring restaurant sales,
+purchasing activities, and operational performance using Excel,
+Power Query, and Power BI.
 
 **Tools:** Excel | Power BI
 
@@ -260,7 +267,7 @@ Move from mostly manual record-keeping toward a more standardized data-entry pro
 
 Future versions could incorporate additional information such as operating expenses, inventory usage, food costs, wastage, and other expenses to provide a more comprehensive view of profitability.
 
-## ## Project Update: September–October 2026
+##  Project Update: September–October 2026
 
 ### Overview
 
