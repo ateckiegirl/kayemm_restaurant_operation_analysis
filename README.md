@@ -259,3 +259,57 @@ Move from mostly manual record-keeping toward a more standardized data-entry pro
 ### 3. Add More Operational Metrics
 
 Future versions could incorporate additional information such as operating expenses, inventory usage, food costs, wastage, and other expenses to provide a more comprehensive view of profitability.
+
+## ## Project Update: September–October 2026
+
+### Overview
+
+Following the initial analysis of the August dataset, I extended the restaurant operations analysis project by incorporating additional data for September and October 2026.
+
+This update builds on the previous work, with improvements to the dataset, data preparation process, and Power BI dashboard.
+
+### 1. Dataset Expansion
+
+The original dataset, which covered August, was expanded to include September and October.
+
+This provided a broader dataset for analysing restaurant sales and purchasing activities across multiple months.
+
+### 2. Data Preparation and Transformation
+
+I updated the existing dataset and worked on incorporating the additional monthly records into the analysis.
+
+Using Power Query, I continued working on data preparation, including organising the tables and maintaining the relationships required for the report.
+
+### 3. Dashboard Redesign
+
+I redesigned the Power BI report to improve its layout, presentation, and ability to communicate key operational information.
+
+The updated dashboard includes:
+
+- **Key Performance Indicators (KPIs):** Main restaurant sales, estimated profit margin, second restaurant purchases, and main restaurant purchases.
+- **Sales by Product:** A visual breakdown of sales across individual products.
+- **Sales by Category:** A treemap showing the distribution of sales across product categories.
+- **Purchase Expenditure by Supplier:** A comparison of purchasing expenditure across suppliers.
+- **Month Slicer:** Allows users to filter the report by August, September, and October.
+
+### 4. Tools Used
+
+- Microsoft Excel
+- Power Query
+- Microsoft Power BI
+
+### 5. Key Learning Outcomes
+
+Working on this update gave me more practical experience in:
+
+- Extending an existing dataset with new monthly records.
+- Preparing and organising data for analysis.
+- Working with table relationships in Power BI.
+- Designing interactive dashboards and selecting appropriate visualisations.
+- Presenting operational information in a way that supports business understanding.
+
+### Conclusion
+
+This update represents the continuation of my restaurant operations analysis project. Beyond expanding the dataset, I focused on improving the dashboard and making the report more useful for understanding the restaurant's sales and purchasing activities.
+
+The project is ongoing, with plans to continue updating the dataset and improving the analysis as more operational data becomes available.
