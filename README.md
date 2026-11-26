@@ -289,6 +289,8 @@ Using Power Query, I continued working on data preparation, including organising
 
 I redesigned the Power BI report to improve its layout, presentation, and ability to communicate key operational information.
 
+![Updated Restaurant Operations Report](updated_report_.png)
+
 The updated dashboard includes:
 
 - **Key Performance Indicators (KPIs):** Main restaurant sales, estimated profit margin, second restaurant purchases, and main restaurant purchases.
