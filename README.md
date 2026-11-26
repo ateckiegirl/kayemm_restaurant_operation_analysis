@@ -320,3 +320,45 @@ Working on this update gave me more practical experience in:
 This update represents the continuation of my restaurant operations analysis project. Beyond expanding the dataset, I focused on improving the dashboard and making the report more useful for understanding the restaurant's sales and purchasing activities.
 
 The project is ongoing, with plans to continue updating the dataset and improving the analysis as more operational data becomes available.
+
+## Business Insights: August–October 2026
+
+The analysis revealed changes in the Main Restaurant's sales performance, estimated profit margin, and purchasing activities across the three months.
+
+### 1. Main Restaurant Sales and Estimated Profit Margin
+
+- **August:** Recorded sales were approximately ₦6 million, with an estimated profit margin of **20.34%**.
+- **September:** Sales remained at approximately ₦6 million, but the estimated margin declined to **7.97%**.
+- **October:** Sales decreased to approximately ₦5 million, while the estimated margin fell further to **0.64%**.
+
+The figures show a decline in the Main Restaurant's estimated margin over the three-month period, alongside a reduction in sales in October.
+
+### 2. Purchasing Activity Across Both Restaurants
+
+Purchasing expenditure also changed during the period:
+
+| Month | Main Restaurant Purchases | Second Restaurant Purchases |
+|---|---:|---:|
+| August | ₦5 million | ₦2 million |
+| September | ₦5 million | ₦3 million |
+| October | ₦5 million | ₦3 million |
+
+Main Restaurant purchases remained relatively consistent at approximately ₦5 million each month. Meanwhile, purchases allocated to the Second Restaurant increased from approximately ₦2 million in August to ₦3 million in September and remained at that level in October.
+
+### 3. Purchase Expenditure Analysis
+
+The report also provides a breakdown of purchasing expenditure through:
+
+- **Purchase Expenditure by Supplier:** Identifies the top ten suppliers by recorded purchase expenditure.
+- **Purchase Expenditure by Category:** Shows how purchasing expenditure is distributed across product categories.
+- **Purchases by Product:** Highlights the individual products with the highest recorded purchase expenditure.
+
+These visualisations provide further visibility into where the restaurants' purchasing funds are allocated.
+
+### 4. Overall Insight
+
+Across the three months, the Main Restaurant maintained relatively consistent recorded purchasing expenditure while its sales and estimated margin declined, particularly in October.
+
+The analysis also highlights the increase in purchasing expenditure allocated to the Second Restaurant from August to September.
+
+Together, these findings demonstrate the importance of monitoring sales performance and purchasing expenditure across both restaurant operations.
