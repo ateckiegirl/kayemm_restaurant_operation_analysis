@@ -1,18 +1,18 @@
-
 # Restaurant Operations Analysis
 
-An ongoing data analytics project exploring restaurant sales,
-purchasing activities, and operational performance using Excel,
-Power Query, and Power BI.
+![Restaurant Operations Dashboard](dashboard.png)
 
-**Tools:** Excel | Power BI
+An ongoing data analytics project analysing restaurant sales, purchasing activities, and operational performance using Microsoft Excel, Power Query, and Power BI.
+
+**Tools:** Microsoft Excel | Power Query | Microsoft Power BI
 
 ## Project Overview
 
-Kayemm Restaurant Operation Analysis is a Power BI project developed to analyse the restaurant's sales and purchasing activities for August.
+Kayemm Restaurant Operations Analysis is an ongoing data analytics project developed to transform manually recorded restaurant data into meaningful business insights.
 
-The project transforms manually recorded restaurant data into an interactive Power BI report, providing visibility into sales, purchasing expenditure, restaurant allocation, and payment responsibility across the two restaurant operations.
+The project initially focused on August 2026 data and was subsequently expanded to include September and October 2026. The updated analysis provides a broader view of sales and purchasing activities across the two restaurant operations.
 
+The project involves data collection, data cleaning, transformation, data modelling, DAX calculations, and interactive dashboard development.
 ## Business Scenario
 
 The restaurant maintains records of its daily sales and purchases, but the information is primarily recorded manually. This makes it difficult to quickly determine how much the business generates from sales, how much is spent on purchases, and how purchasing is distributed between the two restaurant locations.
