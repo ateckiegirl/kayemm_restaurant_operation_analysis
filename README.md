@@ -1,6 +1,6 @@
 # Restaurant Operations Analysis
 
-![Updated Restaurant Operations Report](updated_report_.png)
+![Updated Restaurant Operations Report](updated_report.png)
 
 An ongoing data analytics project analysing restaurant sales, purchasing activities, and operational performance using Microsoft Excel, Power Query, and Power BI.
 
